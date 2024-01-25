@@ -1,0 +1,11 @@
+div.font{
+    font-family: sans-serif;
+
+}
+div.center{
+      text-align: center;
+}
+h1{
+      background-color: rgb(0, 0, 136);
+      color: aliceblue;
+}
